@@ -64,12 +64,11 @@ Source: [Original Anime Dataset on Kaggle](https://www.kaggle.com/datasets/Coope
 
 To launch the recommendation app locally:
 
-```bash
 streamlit run streamlit_app.py
 - Then open http://localhost:8501 in your browser.
 
 ![alt text](image.png)
-```
+
 
 ## Requirements
 
