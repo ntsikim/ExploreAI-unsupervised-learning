@@ -13,6 +13,7 @@ A hybrid recommender system that predicts how users would rate anime titles they
 - [ Requirements](#requirements)
 - [ Folder Structure](#-folder-structure)
 - [ Next Steps](#-next-steps)
+- [ Trello Board](#-trello-board)
 - [ Status](#-status)
 
 ---
@@ -96,6 +97,11 @@ anime-recommender-system-project-2025/
 - Add content-based filtering using genres
 - Explore hybrid models combining content & collaborative scores
 - Deploy Streamlit app to Streamlit Cloud or Hugging Face Spaces
+
+## Trello Board
+
+- Track the project tasks and deliverables on Trello:  
+[View Trello Board](https://trello.com/b/67fd608634dae5f6a55f83b7/anime-recommender-ntsikelelo-myesi)
 
 ##  Status
 
